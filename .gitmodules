@@ -1,0 +1,4 @@
+[submodule "submodul"]
+	path = submodul
+	url = https://aotten77@github.com/aotten77/submodule.git
+	branch = site/phpug
